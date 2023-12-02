@@ -1,0 +1,16 @@
+G:\ВПФ\AddToDB\bin\Debug\AddToDB.exe.config
+G:\ВПФ\AddToDB\bin\Debug\AddToDB.exe
+G:\ВПФ\AddToDB\bin\Debug\AddToDB.pdb
+G:\ВПФ\AddToDB\bin\Debug\HashPasswords.dll
+G:\ВПФ\AddToDB\bin\Debug\HashPasswords.pdb
+G:\ВПФ\AddToDB\obj\Debug\AddToDB.csproj.AssemblyReference.cache
+G:\ВПФ\AddToDB\obj\Debug\AddToDB.csproj.CoreCompileInputs.cache
+G:\ВПФ\AddToDB\obj\Debug\AddToDB.csproj.CopyComplete
+G:\ВПФ\AddToDB\obj\Debug\AddToDB.exe
+G:\ВПФ\AddToDB\obj\Debug\AddToDB.pdb
+G:\ВПФ\AddToDB\bin\Debug\EntityFramework.dll
+G:\ВПФ\AddToDB\bin\Debug\EntityFramework.SqlServer.dll
+G:\ВПФ\AddToDB\bin\Debug\EntityFramework.xml
+G:\ВПФ\AddToDB\bin\Debug\EntityFramework.SqlServer.xml
+G:\ВПФ\AddToDB\bin\Debug\ru\EntityFramework.resources.dll
+G:\ВПФ\AddToDB\obj\Debug\AddToDB.csproj.SuggestedBindingRedirects.cache

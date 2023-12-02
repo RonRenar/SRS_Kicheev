@@ -1,0 +1,85 @@
+C:\Users\pr-22.107k-ka\source\repos\WpfApp1Pr3\WpfApp1Pr3\obj\Debug\WpfApp1Pr3.csproj.AssemblyReference.cache
+C:\Users\pr-22.107k-ka\source\repos\WpfApp1Pr3\WpfApp1Pr3\obj\Debug\WpfApp1Pr3.csproj.SuggestedBindingRedirects.cache
+C:\Users\pr-22.107k-ka\source\repos\WpfApp1Pr3\WpfApp1Pr3\obj\Debug\MainWindow.g.cs
+C:\Users\pr-22.107k-ka\source\repos\WpfApp1Pr3\WpfApp1Pr3\obj\Debug\App.g.cs
+C:\Users\pr-22.107k-ka\source\repos\WpfApp1Pr3\WpfApp1Pr3\obj\Debug\WpfApp1Pr3_MarkupCompile.cache
+C:\Users\pr-22.107k-ka\source\repos\WpfApp1Pr3\WpfApp1Pr3\obj\Debug\WpfApp1Pr3_MarkupCompile.lref
+C:\Users\pr-22.107k-ka\source\repos\WpfApp1Pr3\WpfApp1Pr3\bin\Debug\WpfApp1Pr3.exe.config
+C:\Users\pr-22.107k-ka\source\repos\WpfApp1Pr3\WpfApp1Pr3\bin\Debug\WpfApp1Pr3.exe
+C:\Users\pr-22.107k-ka\source\repos\WpfApp1Pr3\WpfApp1Pr3\bin\Debug\WpfApp1Pr3.pdb
+C:\Users\pr-22.107k-ka\source\repos\WpfApp1Pr3\WpfApp1Pr3\obj\Debug\App.baml
+C:\Users\pr-22.107k-ka\source\repos\WpfApp1Pr3\WpfApp1Pr3\obj\Debug\MainWindow.baml
+C:\Users\pr-22.107k-ka\source\repos\WpfApp1Pr3\WpfApp1Pr3\obj\Debug\WpfApp1Pr3.g.resources
+C:\Users\pr-22.107k-ka\source\repos\WpfApp1Pr3\WpfApp1Pr3\obj\Debug\WpfApp1Pr3.Properties.Resources.resources
+C:\Users\pr-22.107k-ka\source\repos\WpfApp1Pr3\WpfApp1Pr3\obj\Debug\WpfApp1Pr3.csproj.GenerateResource.cache
+C:\Users\pr-22.107k-ka\source\repos\WpfApp1Pr3\WpfApp1Pr3\obj\Debug\WpfApp1Pr3.csproj.CoreCompileInputs.cache
+C:\Users\pr-22.107k-ka\source\repos\WpfApp1Pr3\WpfApp1Pr3\obj\Debug\WpfApp1Pr3.exe
+C:\Users\pr-22.107k-ka\source\repos\WpfApp1Pr3\WpfApp1Pr3\obj\Debug\WpfApp1Pr3.pdb
+C:\Users\pr-22.107k-ka\source\repos\WpfApp1Pr3\WpfApp1Pr3\obj\Debug\Window1.g.cs
+C:\Users\pr-22.107k-ka\source\repos\WpfApp1Pr3\WpfApp1Pr3\obj\Debug\Window2.g.cs
+C:\Users\pr-22.107k-ka\source\repos\WpfApp1Pr3\WpfApp1Pr3\obj\Debug\Window1.baml
+C:\Users\pr-22.107k-ka\source\repos\WpfApp1Pr3\WpfApp1Pr3\obj\Debug\Window2.baml
+C:\Users\pr-22.107k-ka\source\repos\WpfApp1Pr3\WpfApp1Pr3\obj\Debug\Pages\Auto.g.cs
+C:\Users\pr-22.107k-ka\source\repos\WpfApp1Pr3\WpfApp1Pr3\obj\Debug\Pages\Client.g.cs
+C:\Users\pr-22.107k-ka\source\repos\WpfApp1Pr3\WpfApp1Pr3\obj\Debug\Pages\Auto.baml
+C:\Users\pr-22.107k-ka\source\repos\WpfApp1Pr3\WpfApp1Pr3\obj\Debug\Pages\Client.baml
+C:\Users\pr-22.107k-ka\Desktop\Новая папка\WpfApp1Pr3\bin\Debug\WpfApp1Pr3.exe.config
+C:\Users\pr-22.107k-ka\Desktop\Новая папка\WpfApp1Pr3\bin\Debug\WpfApp1Pr3.exe
+C:\Users\pr-22.107k-ka\Desktop\Новая папка\WpfApp1Pr3\bin\Debug\WpfApp1Pr3.pdb
+C:\Users\pr-22.107k-ka\Desktop\Новая папка\WpfApp1Pr3\obj\Debug\WpfApp1Pr3.csproj.AssemblyReference.cache
+C:\Users\pr-22.107k-ka\Desktop\Новая папка\WpfApp1Pr3\obj\Debug\WpfApp1Pr3.csproj.SuggestedBindingRedirects.cache
+C:\Users\pr-22.107k-ka\Desktop\Новая папка\WpfApp1Pr3\obj\Debug\MainWindow.g.cs
+C:\Users\pr-22.107k-ka\Desktop\Новая папка\WpfApp1Pr3\obj\Debug\Pages\Auto.g.cs
+C:\Users\pr-22.107k-ka\Desktop\Новая папка\WpfApp1Pr3\obj\Debug\Pages\Client.g.cs
+C:\Users\pr-22.107k-ka\Desktop\Новая папка\WpfApp1Pr3\obj\Debug\Window1.g.cs
+C:\Users\pr-22.107k-ka\Desktop\Новая папка\WpfApp1Pr3\obj\Debug\Window2.g.cs
+C:\Users\pr-22.107k-ka\Desktop\Новая папка\WpfApp1Pr3\obj\Debug\App.g.cs
+C:\Users\pr-22.107k-ka\Desktop\Новая папка\WpfApp1Pr3\obj\Debug\WpfApp1Pr3_MarkupCompile.cache
+C:\Users\pr-22.107k-ka\Desktop\Новая папка\WpfApp1Pr3\obj\Debug\WpfApp1Pr3_MarkupCompile.lref
+C:\Users\pr-22.107k-ka\Desktop\Новая папка\WpfApp1Pr3\obj\Debug\App.baml
+C:\Users\pr-22.107k-ka\Desktop\Новая папка\WpfApp1Pr3\obj\Debug\MainWindow.baml
+C:\Users\pr-22.107k-ka\Desktop\Новая папка\WpfApp1Pr3\obj\Debug\Pages\Auto.baml
+C:\Users\pr-22.107k-ka\Desktop\Новая папка\WpfApp1Pr3\obj\Debug\Pages\Client.baml
+C:\Users\pr-22.107k-ka\Desktop\Новая папка\WpfApp1Pr3\obj\Debug\Window1.baml
+C:\Users\pr-22.107k-ka\Desktop\Новая папка\WpfApp1Pr3\obj\Debug\Window2.baml
+C:\Users\pr-22.107k-ka\Desktop\Новая папка\WpfApp1Pr3\obj\Debug\WpfApp1Pr3.g.resources
+C:\Users\pr-22.107k-ka\Desktop\Новая папка\WpfApp1Pr3\obj\Debug\WpfApp1Pr3.Properties.Resources.resources
+C:\Users\pr-22.107k-ka\Desktop\Новая папка\WpfApp1Pr3\obj\Debug\WpfApp1Pr3.csproj.GenerateResource.cache
+C:\Users\pr-22.107k-ka\Desktop\Новая папка\WpfApp1Pr3\obj\Debug\WpfApp1Pr3.csproj.CoreCompileInputs.cache
+C:\Users\pr-22.107k-ka\Desktop\Новая папка\WpfApp1Pr3\obj\Debug\WpfApp1Pr3.exe
+C:\Users\pr-22.107k-ka\Desktop\Новая папка\WpfApp1Pr3\obj\Debug\WpfApp1Pr3.pdb
+G:\ВПФ\WpfApp1Pr3\bin\Debug\WpfApp1Pr3.exe.config
+G:\ВПФ\WpfApp1Pr3\bin\Debug\WpfApp1Pr3.exe
+G:\ВПФ\WpfApp1Pr3\bin\Debug\WpfApp1Pr3.pdb
+G:\ВПФ\WpfApp1Pr3\obj\Debug\MainWindow.g.cs
+G:\ВПФ\WpfApp1Pr3\obj\Debug\Pages\Auto.g.cs
+G:\ВПФ\WpfApp1Pr3\obj\Debug\Pages\Client.g.cs
+G:\ВПФ\WpfApp1Pr3\obj\Debug\App.g.cs
+G:\ВПФ\WpfApp1Pr3\obj\Debug\WpfApp1Pr3_MarkupCompile.cache
+G:\ВПФ\WpfApp1Pr3\obj\Debug\WpfApp1Pr3_MarkupCompile.lref
+G:\ВПФ\WpfApp1Pr3\obj\Debug\App.baml
+G:\ВПФ\WpfApp1Pr3\obj\Debug\MainWindow.baml
+G:\ВПФ\WpfApp1Pr3\obj\Debug\Pages\Auto.baml
+G:\ВПФ\WpfApp1Pr3\obj\Debug\Pages\Client.baml
+G:\ВПФ\WpfApp1Pr3\obj\Debug\WpfApp1Pr3.g.resources
+G:\ВПФ\WpfApp1Pr3\obj\Debug\WpfApp1Pr3.Properties.Resources.resources
+G:\ВПФ\WpfApp1Pr3\obj\Debug\WpfApp1Pr3.csproj.GenerateResource.cache
+G:\ВПФ\WpfApp1Pr3\obj\Debug\WpfApp1Pr3.csproj.CoreCompileInputs.cache
+G:\ВПФ\WpfApp1Pr3\obj\Debug\WpfApp1Pr3.exe
+G:\ВПФ\WpfApp1Pr3\obj\Debug\WpfApp1Pr3.pdb
+G:\ВПФ\WpfApp1Pr3\obj\Debug\WpfApp1Pr3.csproj.AssemblyReference.cache
+G:\ВПФ\WpfApp1Pr3\obj\Debug\WpfApp1Pr3.csproj.SuggestedBindingRedirects.cache
+G:\ВПФ\WpfApp1Pr3\obj\Debug\WpfApp1Pr3_Content.g.cs
+G:\ВПФ\WpfApp1Pr3\bin\Debug\AddToDB.exe
+G:\ВПФ\WpfApp1Pr3\bin\Debug\EntityFramework.dll
+G:\ВПФ\WpfApp1Pr3\bin\Debug\EntityFramework.SqlServer.dll
+G:\ВПФ\WpfApp1Pr3\bin\Debug\HashPasswords.dll
+G:\ВПФ\WpfApp1Pr3\bin\Debug\AddToDB.pdb
+G:\ВПФ\WpfApp1Pr3\bin\Debug\AddToDB.exe.config
+G:\ВПФ\WpfApp1Pr3\bin\Debug\HashPasswords.pdb
+G:\ВПФ\WpfApp1Pr3\bin\Debug\EntityFramework.xml
+G:\ВПФ\WpfApp1Pr3\bin\Debug\EntityFramework.SqlServer.xml
+G:\ВПФ\WpfApp1Pr3\bin\Debug\ru\EntityFramework.resources.dll
+G:\ВПФ\WpfApp1Pr3\obj\Debug\WpfApp1Pr3.csproj.CopyComplete
+G:\ВПФ\WpfApp1Pr3\obj\Debug\Pages\Admin.g.cs
+G:\ВПФ\WpfApp1Pr3\obj\Debug\Pages\Admin.baml
